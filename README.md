@@ -1,2 +1,2 @@
-# python-homework
-Unit 2 - python homework assignment
+# python
+python assignment
